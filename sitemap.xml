@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Sitemap for Manchester Piano Lessons.
-     CHANGE: replace yourdomain.co.uk with your real domain (keep https:// and the trailing slash). -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://yourdomain.co.uk/</loc>
-    <lastmod>2026-11-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://learnpianomanchester.com/</loc></url>
+  <url><loc>https://learnpianomanchester.com/adult-piano-lessons.html</loc></url>
+  <url><loc>https://learnpianomanchester.com/children-piano-lessons.html</loc></url>
+  <url><loc>https://learnpianomanchester.com/piano-lesson-prices.html</loc></url>
+  <url><loc>https://learnpianomanchester.com/chorlton.html</loc></url>
+  <url><loc>https://learnpianomanchester.com/didsbury.html</loc></url>
+  <url><loc>https://learnpianomanchester.com/fallowfield.html</loc></url>
+  <url><loc>https://learnpianomanchester.com/withington.html</loc></url>
 </urlset>
