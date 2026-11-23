@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://learnpianomanchester.com/sitemap.xml
